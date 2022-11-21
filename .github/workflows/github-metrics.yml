@@ -50,5 +50,5 @@ jobs:
           plugin_music: yes
           plugin_music_provider: lastfm
           plugin_music_user: Senya0
-          plugin_music_mode: recent
+          plugin_music_mode: top
           plugin_music_limit: 3
