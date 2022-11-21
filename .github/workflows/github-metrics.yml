@@ -52,3 +52,4 @@ jobs:
           plugin_music_user: Senya0
           plugin_music_mode: top
           plugin_music_limit: 3
+          plugin_music_time_range: short
