@@ -19,7 +19,7 @@ jobs:
           template: classic
           base: header
           config_timezone: Europe/Moscow
-          config_order: header, languages, achievements, anilist, music
+          config_order: base.header, languages, achievements, anilist, music
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
